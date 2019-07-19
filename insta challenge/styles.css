@@ -1,0 +1,32 @@
+*{
+  font-family: 'Roboto', sans-serif;
+  justify-content: center;
+}
+.name{
+  display: flex;
+}
+.pic{
+justify-content: flex-start;
+  border: solid, 0px;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  padding: 10px;
+}
+.name{
+  font-size: 30px;
+  padding: 10px;
+}
+.follow{
+  height: 30px;
+  width: 90px;
+  padding: 10px;
+}
+.counts{
+  display: inline-block;
+  align-content: center;
+  padding: 25px;
+}
+.biog{
+  font-size: 15px;
+}
